@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joadev1996
 - 👀 I’m interested in learning C# and Python.
 - 🌱 I’m currently learning Cybersecurity focused on Pentesting / Red Team.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jchagasn96@gmail.com
 
 <!---
