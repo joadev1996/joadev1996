@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joadev1996
-- 👀 I’m interested in learning C# and Python.
+- 👋 Hola, soy Joaquim y actualmente estoy enfocado a la Seguridad Ofensiva / Pentesting.
+- 👀 Estoy interesado en aprender cualquier cosa relacionada con la Seguridad Ofensiva / Defensiva.
 - 🌱 I’m currently learning Cybersecurity focused on Pentesting / Red Team.
 - 📫 How to reach me jchagasn96@gmail.com
 
